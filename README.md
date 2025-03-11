@@ -10,5 +10,5 @@ This project is a digital clock with a built-in programmable radio, designed usi
 - **Simulation in Logisim**: Designed and simulated using Logisim software.
 
 ## Requirements
-- **Logisim**: The circuit was developed using Logisim. Ensure you have Logisim installed to open and run the project.
+- **Logisim**: The circuit was developed using Logisim.
 
